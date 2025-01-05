@@ -37,7 +37,7 @@ zemberek-python (Türkçe dil işleme için)
 Ayrıca, veri.xlsx ve polarization_keywords.xlsx dosyalarının mevcut olması gereklidir.
 
 ## Contributors
-- [Aybüke Eraydin](https://github.com/aybukeeraydin)
+- [Buse Yıldız](https://github.com/buseey)
 - [Aleks Dulda](https://github.com/Aleksdulda)
 - [Mustafa Durmazer](https://github.com/mustafadurmazer)
 
